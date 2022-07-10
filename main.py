@@ -23,7 +23,7 @@ HEADERS = {
     'sec-ch-ua-mobile': '?0'}
 
 # определяем список ключевых слов
-KEYWORDS = {'дизайн', 'фото', 'web', 'Python', 'python', 'Web', 'Дизайн', 'Фото'}
+KEYWORDS = {'дизайн', 'фото', 'web', 'Python'}
 
 base_url = 'https://habr.com'
 url = base_url + '/ru/all/'
